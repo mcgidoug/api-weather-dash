@@ -1,0 +1,42 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  background: rgb(170, 152, 152);
+  font-family: "Bungee Hairline", cursive;
+}
+.card {
+  background: rgb(140, 145, 150);
+  padding: 1em;
+  border-radius: 20px;
+  width: 100%;
+  max-width: 400px;
+  margin: 20px;
+}
+.search {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+input.search-bar {
+  padding: 10px;
+  border-radius: 10px;
+  margin: 10px;
+  font-family: inherit;
+}
+button {
+  padding: 10px;
+  border-radius: 10px;
+  margin: 10px;
+  font-family: inherit;
+  cursor: pointer;
+}
+h1.city,
+h2.temp,
+div.description,
+div.humidity,
+div.wind {
+  color: white;
+}
