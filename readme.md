@@ -5,8 +5,3 @@
 ## Screenshot
 
 ![Screenshot of page](./weather-dashboard-screenshot.png)
-
-## Works Cited
-
-Used YouTube tutorial to write weather retrieval function.
-https://www.youtube.com/watch?v=WZNG8UomjSI&t=1814s
